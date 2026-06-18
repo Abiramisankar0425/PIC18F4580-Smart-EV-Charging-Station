@@ -92,10 +92,8 @@ The charging station uses a Finite State Machine (FSM) architecture to manage ch
 
 ### Proteus Schematic
 
-Add your Proteus schematic image here:
-
-```markdown
-![Proteus Schematic](images/schematic.png)
+Proteus schematic image here:
+![Proteus Schematic](imageshttps://github.com/Abiramisankar0425/PIC18F4580-Smart-EV-Charging-Station/blob/7502a85ef8c51c5ba64c3040a64902c62ff6b3be/EV_charging.png)
 ```
 
 ---
